@@ -1,7 +1,7 @@
 ---
 title: "Entre no Metaverso!"
 subtitle: Trocas, NFT, Metaverso, Educação e Play to earn.
-image: /img/teste.gif
+image: /img/teste.mp4
 blurb:
     heading: Metaeducation
     text: "MetaEducation é a moeda da MetaSwap e do jogo blockchain play to earn MetaEducation, com trocas rápidas e de taxas baixas, jogadores do metaverso tem a exchange perfeita para acessar ganhos. "
@@ -16,7 +16,35 @@ products:
     - image: /img/illustrations-coffee-gear.svg
       text: "O NFT Marketplace reúne artistas, criadores e entusiastas de criptomoedas em uma única plataforma para criar e negociar NFT’s do Meta Education e de outros criadores."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: RoadMap
+    text: "Fase 1:
+Planejamento do projeto
+Implementação da MetaSwap
+Testes e Auditoria de contratos
+Lançamento do site
+Criação de Redes Sociais
+Design gráfico para mídias sociais
+Crescimento da comunidade
+Fase 2:
+Desenvolvimento de personagens
+Desenvolvimento do mapa
+Login e conexão Blockchain
+Pré-alfa
+Pré-venda
+Melhorias de UX
+
+Fase 3:
+Painel do usuário
+PVP
+Beta 
+Teste de público
+Depuração
+Lançamento
+
+Fase 4:
+NFT Marketplace
+Stake e Pool
+Exchange game"
+
 ---
 
