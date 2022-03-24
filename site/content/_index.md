@@ -1,5 +1,5 @@
 ---
-title: "Entre no Metaverso!"
+title: "Metaverso"
 subtitle: Trocas, NFT, Metaverso, Educação e Play to earn.
 image: /img/teste1.gif
 blurb:
