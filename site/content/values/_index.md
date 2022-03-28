@@ -40,4 +40,4 @@ values:
       Exchange game
 
     imageUrl: "/img/about-direct-sourcing.gif"
-
+---
