@@ -24,7 +24,7 @@ values:
       - Design gráfico para mídias sociais
       - Crescimento da comunidade
       - Implementação da MetaSwap
-    text: "Testes e Auditoria de contratos 
+    text: " Testes e Auditoria de contratos 
 Lançamento do site 
 Criação de Redes Sociais 
 Ver mais ..."
