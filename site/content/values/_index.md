@@ -13,10 +13,9 @@ values:
       - Testes e Auditoria de contratos
     imageUrl: "/img/about-shade-grown.gif"
   - heading: "Fase 2"
-    text: >
-      Desenvolvimento de personagens
-      - Desenvolvimento do mapa
-      - Login e conexão Blockchain
+    text: "- Desenvolvimento de personagens" 
+    text: "- Desenvolvimento do mapa"
+    text: "- Login e conexão Blockchain"
       - Pré-alfa
       - Pré-venda
       - Melhorias de UX
