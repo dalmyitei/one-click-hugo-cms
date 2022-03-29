@@ -16,9 +16,9 @@ values:
     text: "- Desenvolvimento de personagens" 
     text: "- Desenvolvimento do mapa"
     text: "- Login e conexão Blockchain"
-      - Pré-alfa
-      - Pré-venda
-      - Melhorias de UX
+    text: "- Pré-alfa"
+    text: "- Pré-venda"
+    text: "- Melhorias de UX"
 
     imageUrl: "/img/about-single-origin.gif"
   - heading: "Fase 3"
