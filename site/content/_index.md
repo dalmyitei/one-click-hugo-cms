@@ -17,10 +17,14 @@ products:
       text: "O NFT Marketplace reúne artistas, criadores e entusiastas de criptomoedas em uma única plataforma para criar e negociar NFT’s do Meta Education e de outros criadores."
 values:
     heading: RoadMap
-    text: "Fase 1:
-Planejamento do projeto
-Implementação da MetaSwap "
-  text: "Testes e Auditoria de contratos 
+    text: >
+      Planejamento do projeto
+      - Lançamento do site
+      - Criação de Redes Sociais
+      - Design gráfico para mídias sociais
+      - Crescimento da comunidade
+      - Implementação da MetaSwap
+    text: "Testes e Auditoria de contratos 
 Lançamento do site 
 Criação de Redes Sociais 
 Ver mais ..."
