@@ -18,12 +18,14 @@ products:
 values:
     heading: RoadMap
     text: "Fase 1:
-Planejamento do projeto <br>
-Implementação da MetaSwap <br>
-Testes e Auditoria de contratos <br>
-Lançamento do site  <br>
-Criação de Redes Sociais <br>
+Planejamento do projeto
+Implementação da MetaSwap "
+  text: "Testes e Auditoria de contratos 
+Lançamento do site 
+Criação de Redes Sociais 
 Ver mais ..."
+
+
 
 ---
 
