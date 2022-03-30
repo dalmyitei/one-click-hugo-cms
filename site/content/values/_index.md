@@ -2,7 +2,7 @@
 title: "Road Map"
 image: /img/about-jumbotron.gif
 values:
--  heading: "Fase 1"
+  heading: "Fase 1"
     text1: "- Planejamento do projeto"
     text2: "- Lançamento do site"
     text3: >  
@@ -20,7 +20,7 @@ values:
     text9: >  
       - Criação de Redes Sociais 
     imageUrl: "/img/about-shade-grown.gif"
- - heading: Fase 2
+ heading: Fase 2
     text1: >
       - Desenvolvimento de personagens
     text2: >  
@@ -34,7 +34,7 @@ values:
     text6: >  
       - Melhorias de UX
     imageUrl: "/img/about-single-origin.gif"
-  - heading: "Fase 3"
+  heading: "Fase 3"
     text: >
       Painel do usuário
       - PVP
@@ -44,7 +44,7 @@ values:
       - Lançamento
 
     imageUrl: "/img/about-sustainable-farming.gif"
-  - heading: "Fase 4"
+  heading: "Fase 4"
     text: >
       NFT Marketplace
       - Stake e Pool
