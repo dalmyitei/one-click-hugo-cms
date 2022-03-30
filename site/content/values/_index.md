@@ -3,14 +3,20 @@ title: "Road Map"
 image: /img/about-jumbotron.gif
 values:
   - heading: "Fase 1"
-    text: >
+    text1: >
       Planejamento do projeto
+    text2: >  
       - Lançamento do site
+    text3: >  
       - Criação de Redes Sociais
+    text4: >  
       - Design gráfico para mídias sociais
+    text5: >  
       - Crescimento da comunidade
+    text6: >  
       - Implementação da MetaSwap
-      - Testes e Auditoria de contratos
+    text7: > 
+       - Testes e Auditoria de contratos
     imageUrl: "/img/about-shade-grown.gif"
   - heading: "Fase 2"
     text: "- Desenvolvimento de personagens" 
