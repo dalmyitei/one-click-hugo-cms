@@ -2,7 +2,7 @@
 title: "Road Map"
 image: /img/about-jumbotron.gif
 values:
-  heading1: Fase 1
+-  heading: Fase 1
     text1: >
       - Planejamento do projeto
     text2: >  
@@ -22,7 +22,7 @@ values:
     text9: >  
       - Criação de Redes Sociais 
     imageUrl: "/img/about-shade-grown.gif"
-  heading1: Fase 2
+ - heading: Fase 2
     text1: >
       - Desenvolvimento de personagens
     text2: >  
