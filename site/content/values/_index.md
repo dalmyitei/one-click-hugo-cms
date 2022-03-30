@@ -2,11 +2,9 @@
 title: "Road Map"
 image: /img/about-jumbotron.gif
 values:
--  heading: Fase 1
-    text1: >
-      - Planejamento do projeto
-    text2: >  
-      - Lançamento do site
+-  heading: "Fase 1"
+    text1: "- Planejamento do projeto"
+    text2: "- Lançamento do site"
     text3: >  
       - Criação de Redes Sociais
     text4: >  
