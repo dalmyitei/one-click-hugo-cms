@@ -8,5 +8,7 @@
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Ver mais" "buttonLink" "/values") }}
 
-{{ partial "blog" .Params.blog.text}}
+{{ partial "blog" . }}
+
+{{ partial "bb" .(dict "heading" .Params.bb.heading "text" .Params.bb.text "buttonText" "Ver mais" "buttonLink" "/values")}}
 {{ end }}
