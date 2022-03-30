@@ -21,6 +21,6 @@ values:
        - Lançamento do site 
     text9: >  
         - Criação de Redes Sociais 
-    imageUrl: "/img/about-shade-grown.gif"
+
    
 ---
