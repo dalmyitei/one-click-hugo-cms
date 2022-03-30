@@ -10,5 +10,5 @@
 
 {{ partial "blog" . }}
 
-{{ partial "bb" .(dict "heading" .Params.bb.heading "text" .Params.bb.text "buttonText" "Ver mais" "buttonLink" "/values")}}
+{{ partial "bb" (dict "heading" .Params.bb.heading "text" .Params.bb.text "buttonText" "Ver mais" "buttonLink" "/values") }}
 {{ end }}
