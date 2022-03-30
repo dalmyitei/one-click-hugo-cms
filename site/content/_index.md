@@ -36,8 +36,7 @@ values:
       - Lançamento do site 
     text9: >  
       - Criação de Redes Sociais 
-    text: >  
-      - Ver mais ...
+
 
 
 ---
