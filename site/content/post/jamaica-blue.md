@@ -5,19 +5,25 @@ image: img/illustrations-coffee.gif
 ## Serviços públicos e crise de confiança
 
 Em tempos de crise política, social e econômica, agravadas pelo contexto da pandemia,  o debate sobre a qualidade dos serviços públicos se torna ainda mais urgente. Não é de hoje que a insatisfação com a prestação dessas atividades e a desconfiança da população em relação à gestão pública se colocam como desafios aos governos municipais, estaduais e federal. 
+
 A proposição de soluções focadas no aprimoramento dos serviços públicos e da gestão pública serão determinantes para o rumo que o país irá tomar nos próximos anos. 
+
 Mais do que apenas transformar as agendas políticas, o momento pede que os esforços de governos locais sejam na direção da estruturação de serviços públicos de qualidade como um importante meio para a melhoria da qualidade de vida das pessoas. 
 
 
 
-## A little history
-Investimento Social
+## Investimento Social
 Investimento social privado é o repasse voluntário de recursos privados de forma planejada, monitorada e sistemática para projetos sociais, ambientais, culturais e científicos de interesse público.
 Incluem-se no universo do investimento social privado as ações sociais protagonizadas por empresas, fundações e institutos de origem empresarial ou instituídos por famílias, comunidades ou indivíduos.
+
 Os elementos fundamentais – intrínsecos ao conceito de investimento social privado – que diferenciam essa prática das ações assistencialistas são:
+
 preocupação com planejamento, monitoramento e avaliação dos projetos;
+
 estratégia voltada para resultados sustentáveis de impacto e transformação social;
+
 envolvimento da comunidade no desenvolvimento da ação.
+
 O Investimento Social Privado pode ser alavancado por meio de incentivos fiscais concedidos pelo poder público e também pela alocação de recursos não-financeiros e intangíveis.
 
 
