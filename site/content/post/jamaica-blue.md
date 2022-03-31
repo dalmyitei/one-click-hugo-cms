@@ -27,11 +27,23 @@ envolvimento da comunidade no desenvolvimento da ação.
 O Investimento Social Privado pode ser alavancado por meio de incentivos fiscais concedidos pelo poder público e também pela alocação de recursos não-financeiros e intangíveis.
 
 
-## What you need to know before trying
+## Descentralização da educação
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Estamos vivendo um período de descentralização da educação, a maioria dos países está experimentando alguma forma de descentralização da educação, que transfere poderes de tomada de decisão dos Ministérios da Educação centrais para governos intermediários, governos locais, bem como, comunidades e escolas.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+De modo geral a tomada de decisões sem nenhuma transparência, ineficiência fiscal e administrativa, má qualidade e dificuldade de acesso aos serviços caracterizam a gestão centralizada e se mostram extremamente ineficientes.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+A educação descentralizada promete ser mais eficiente, refletindo melhor as prioridades locais, incentivando a participação e, eventualmente, melhorando a cobertura e a qualidade de ensino. 
+
+## META Education
+
+O Meta Education tem como princípio proporcionar educação equitativa e de qualidade nas redes públicas de ensino através de investimentos sociais descentralizados.
+
+
+Como funciona?
+
+Utilizando metodologias de gamificação e imergindo no metaverso entregamos a escola plataforma digital de educação descentralizada disponível em mais de 25 idiomas, na qual os usuários (professores  e estudantes) por meio do método play to earn (jogue e ganhe), ganham moedas sempre que comprovam avanços na jornada do ensino/aprendizagem.
+
+As localidades contempladas com o investimento social são alimentadas por meio do fundo internacional de apoio à educação- Meta Education que financia e acompanha o impacto social de todo o projeto pensado para aquela localidade.
+
 
