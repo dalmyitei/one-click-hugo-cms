@@ -1,28 +1,25 @@
 ---
 title: 'WhitePaper'
 image: img/illustrations-coffee.gif
-text: >
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 ---
+## Serviços públicos e crise de confiança
 
+Em tempos de crise política, social e econômica, agravadas pelo contexto da pandemia,  o debate sobre a qualidade dos serviços públicos se torna ainda mais urgente. Não é de hoje que a insatisfação com a prestação dessas atividades e a desconfiança da população em relação à gestão pública se colocam como desafios aos governos municipais, estaduais e federal. 
+A proposição de soluções focadas no aprimoramento dos serviços públicos e da gestão pública serão determinantes para o rumo que o país irá tomar nos próximos anos. 
+Mais do que apenas transformar as agendas políticas, o momento pede que os esforços de governos locais sejam na direção da estruturação de serviços públicos de qualidade como um importante meio para a melhoria da qualidade de vida das pessoas. 
 
 
 
 ## A little history
+Investimento Social
+Investimento social privado é o repasse voluntário de recursos privados de forma planejada, monitorada e sistemática para projetos sociais, ambientais, culturais e científicos de interesse público.
+Incluem-se no universo do investimento social privado as ações sociais protagonizadas por empresas, fundações e institutos de origem empresarial ou instituídos por famílias, comunidades ou indivíduos.
+Os elementos fundamentais – intrínsecos ao conceito de investimento social privado – que diferenciam essa prática das ações assistencialistas são:
+preocupação com planejamento, monitoramento e avaliação dos projetos;
+estratégia voltada para resultados sustentáveis de impacto e transformação social;
+envolvimento da comunidade no desenvolvimento da ação.
+O Investimento Social Privado pode ser alavancado por meio de incentivos fiscais concedidos pelo poder público e também pela alocação de recursos não-financeiros e intangíveis.
 
-  MétricaEmissão/bloqueio (META)	        Emissão/bloqueio (META)	           Emissão/dia (META)
-    
-  Emissão	                                          40	                           1.152.000
-  Queimado semanalmente (PID 138)                	-25,75                          	-787.600
-  Emissão efetiva	                                <14,25*	                           364.400*
-
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
 
 ## What you need to know before trying
 
