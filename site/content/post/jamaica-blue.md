@@ -1,6 +1,6 @@
 ---
 title: 'WhitePaper'
-- image: img/illustrations-coffee.gif
+image: img/illustrations-coffee.gif
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
