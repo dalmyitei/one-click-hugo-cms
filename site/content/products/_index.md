@@ -1,22 +1,20 @@
 ---
-title: Our Coffee
+title: Tokenomics
 type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+image: /img/teste1.gif
+heading: Tokenomics
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Essa é a economia do Token META.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/illustrations-coffee-gear.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        *A Emissão Efetiva é de fato um pouco abaixo desse valor: um adicional de 45.000 META por dia é desviado do valor alocado para a loteria e queimado (PID 137 - Detalhes abaixo).
+
+        Além do acima, uma quantidade dinâmica de META também é cunhada no endereço Dev a uma taxa de 9,09%. Isso significa que se 100 META são colhidos, então 9.09 META é cunhado e enviado para o Dev Address.
+
+        Todo META cunhado no endereço do Dev é queimado na queima semanal e nunca entra em circulação.Como tal, não o incluímos na taxa de emissão acima.
+
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -37,12 +35,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Tokenomics
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+     Essa é a economia do Token META.
 main:
   heading: Great coffee with no compromises
   description: >

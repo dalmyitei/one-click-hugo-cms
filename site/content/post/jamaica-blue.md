@@ -1,33 +1,49 @@
 ---
 title: 'WhitePaper'
-date: 2022-01-04T15:04:10.000Z
-description: >-
-  Clique para acessar nosso WhitePaper.
+image: img/illustrations-coffee.gif
 ---
+## Serviços públicos e crise de confiança
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Em tempos de crise política, social e econômica, agravadas pelo contexto da pandemia,  o debate sobre a qualidade dos serviços públicos se torna ainda mais urgente. Não é de hoje que a insatisfação com a prestação dessas atividades e a desconfiança da população em relação à gestão pública se colocam como desafios aos governos municipais, estaduais e federal. 
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+A proposição de soluções focadas no aprimoramento dos serviços públicos e da gestão pública serão determinantes para o rumo que o país irá tomar nos próximos anos. 
 
-## A little history
+Mais do que apenas transformar as agendas políticas, o momento pede que os esforços de governos locais sejam na direção da estruturação de serviços públicos de qualidade como um importante meio para a melhoria da qualidade de vida das pessoas. 
 
-  MétricaEmissão/bloqueio (META)	        Emissão/bloqueio (META)	           Emissão/dia (META)
-    
-  Emissão	                                          40	                           1.152.000
-  Queimado semanalmente (PID 138)                	-25,75                          	-787.600
-  Emissão efetiva	                                <14,25*	                           364.400*
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## Investimento Social
+Investimento social privado é o repasse voluntário de recursos privados de forma planejada, monitorada e sistemática para projetos sociais, ambientais, culturais e científicos de interesse público.
+Incluem-se no universo do investimento social privado as ações sociais protagonizadas por empresas, fundações e institutos de origem empresarial ou instituídos por famílias, comunidades ou indivíduos.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Os elementos fundamentais – intrínsecos ao conceito de investimento social privado – que diferenciam essa prática das ações assistencialistas são:
 
-## What you need to know before trying
+preocupação com planejamento, monitoramento e avaliação dos projetos;
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+estratégia voltada para resultados sustentáveis de impacto e transformação social;
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+envolvimento da comunidade no desenvolvimento da ação.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+O Investimento Social Privado pode ser alavancado por meio de incentivos fiscais concedidos pelo poder público e também pela alocação de recursos não-financeiros e intangíveis.
+
+
+## Descentralização da educação
+
+Estamos vivendo um período de descentralização da educação, a maioria dos países está experimentando alguma forma de descentralização da educação, que transfere poderes de tomada de decisão dos Ministérios da Educação centrais para governos intermediários, governos locais, bem como, comunidades e escolas.
+
+De modo geral a tomada de decisões sem nenhuma transparência, ineficiência fiscal e administrativa, má qualidade e dificuldade de acesso aos serviços caracterizam a gestão centralizada e se mostram extremamente ineficientes.
+
+A educação descentralizada promete ser mais eficiente, refletindo melhor as prioridades locais, incentivando a participação e, eventualmente, melhorando a cobertura e a qualidade de ensino. 
+
+## META Education
+
+O Meta Education tem como princípio proporcionar educação equitativa e de qualidade nas redes públicas de ensino através de investimentos sociais descentralizados.
+
+
+Como funciona?
+
+Utilizando metodologias de gamificação e imergindo no metaverso entregamos a escola plataforma digital de educação descentralizada disponível em mais de 25 idiomas, na qual os usuários (professores  e estudantes) por meio do método play to earn (jogue e ganhe), ganham moedas sempre que comprovam avanços na jornada do ensino/aprendizagem.
+
+As localidades contempladas com o investimento social são alimentadas por meio do fundo internacional de apoio à educação- Meta Education que financia e acompanha o impacto social de todo o projeto pensado para aquela localidade.
+
 
