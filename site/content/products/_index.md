@@ -7,7 +7,7 @@ description: >-
  Essa é a economia do Token META.
 intro:
   blurbs:
-    - image: /img/tabela1.svg
+    - image: /img/illustrations-coffee-gear.svg
       text: >
         *A Emissão Efetiva é de fato um pouco abaixo desse valor: um adicional de 45.000 META por dia é desviado do valor alocado para a loteria e queimado (PID 137 - Detalhes abaixo).
 
