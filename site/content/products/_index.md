@@ -15,13 +15,7 @@ intro:
 
         Todo META cunhado no endereço do Dev é queimado na queima semanal e nunca entra em circulação.Como tal, não o incluímos na taxa de emissão acima.
 
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-
+  
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
