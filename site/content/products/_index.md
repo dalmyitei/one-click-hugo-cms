@@ -1,7 +1,7 @@
 ---
 title: Tokenomics
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/teste1.gif
 heading: Tokenomics
 description: >-
  Essa é a economia do Token META.
