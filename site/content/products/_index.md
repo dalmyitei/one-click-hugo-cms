@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Tokenomics
 type: products
 image: /img/products-jumbotron.jpg
 heading: Tokenomics
@@ -7,7 +7,7 @@ description: >-
  Essa é a economia do Token META.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.png
+    - image: /img/illustrations-coffee.gif
       text: >
         *A Emissão Efetiva é de fato um pouco abaixo desse valor: um adicional de 45.000 BOLOS por dia é desviado do valor alocado para a loteria e queimado (PID 137 - Detalhes abaixo).
 
