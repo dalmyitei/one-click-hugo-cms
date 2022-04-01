@@ -7,9 +7,9 @@ description: >-
  Essa é a economia do Token META.
 intro:
   blurbs:
-    - image: /img/tabela1.svg
+    - image: /img/tabela.svg
       text: >
-        *A Emissão Efetiva é de fato um pouco abaixo desse valor: um adicional de 45.000 BOLOS por dia é desviado do valor alocado para a loteria e queimado (PID 137 - Detalhes abaixo).
+        *A Emissão Efetiva é de fato um pouco abaixo desse valor: um adicional de 45.000 META por dia é desviado do valor alocado para a loteria e queimado (PID 137 - Detalhes abaixo).
 
         Além do acima, uma quantidade dinâmica de META também é cunhada no endereço Dev a uma taxa de 9,09%. Isso significa que se 100 META são colhidos, então 9.09 META é cunhado e enviado para o Dev Address.
 
