@@ -17,24 +17,19 @@ intro:
 
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Outras mecânicas deflacionárias.
+        Além do acima, META também é queimado das seguintes maneiras:
+        0,05% de cada negociação feita no METASwap 
+        100% do META enviado para o endereço do desenvolvedor
+        100% das taxas de desempenho do META dos IFOs
+        100% do META gasto na criação de perfil e cunhagem NFT
+        100% do lance META durante os leilões agrícolas
+        20% do META gasto em bilhetes de loteria
+        45.000 META por dia (historicamente atribuídos à loteria) ( O META para isso é gerado por uma fazenda - PID 137)
+        3% de cada rodada de mercados de previsão é usada para comprar META para queimar
+        2% de cada colheita de rendimento no Auto META Pool
+        2% de cada venda de NFT no mercado de NFT é usado para comprar META para queimar
+ 
   heading: Tokenomics
   description: >
      Essa é a economia do Token META.
