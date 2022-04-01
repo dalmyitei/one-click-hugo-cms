@@ -14,6 +14,9 @@ intro:
         Além do acima, uma quantidade dinâmica de META também é cunhada no endereço Dev a uma taxa de 9,09%. Isso significa que se 100 META são colhidos, então 9.09 META é cunhado e enviado para o Dev Address.
 
         Todo META cunhado no endereço do Dev é queimado na queima semanal e nunca entra em circulação.Como tal, não o incluímos na taxa de emissão acima.
+    - image: 
+      text: >
+        
 
   heading: Tokenomics
   description: >
