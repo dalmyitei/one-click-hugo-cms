@@ -18,7 +18,7 @@ products:
       botao: MetaEducation Alfa
     - image: /img/illustrations-coffee-gear1.gif
       text: "O NFT Marketplace reúne artistas, criadores e entusiastas de criptomoedas em uma única plataforma para criar e negociar NFT’s do Meta Education e de outros criadores."
-      botao: Telegram
+      botao: Em breve
 values:
     heading: RoadMap
     heading1: Fase 1
