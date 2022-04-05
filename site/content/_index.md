@@ -6,9 +6,6 @@ image: img/teste1.gif
 blurb:
     heading: Metaeducation
     text: "MetaEducation é a moeda da MetaSwap e do jogo blockchain play to earn MetaEducation, com trocas rápidas e de taxas baixas, jogadores do metaverso tem a exchange perfeita para acessar ganhos. "
-blurb:
-    heading: Contract Adress
-    text: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX "
 intro:
     heading: "Sobre"
     text: ""

@@ -1,6 +1,6 @@
 ---
 title: "Road Map"
-image: /img/about-jumbotron.gif
+image: /img/teste1.gif
 values:
   - heading: "Fase 1"
     text1: >
