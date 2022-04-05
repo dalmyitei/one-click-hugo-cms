@@ -1,7 +1,7 @@
 ---
 title: "Metaverso"
 subtitle: Trocas, NFT, Metaverso, Educação e Play to earn.
-image: https://brasilaprender.com.br/teste1.gif
+image: img/teste1.gif
 
 blurb:
     heading: Metaeducation
