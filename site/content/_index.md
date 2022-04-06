@@ -21,7 +21,7 @@ products:
       botao: Em breve...
 values:
     heading: Contact Adress
-    text1: "0x4075Bf6e6759857AcB3aF419997872e3992f6357"
+    text: "0x4075Bf6e6759857AcB3aF419997872e3992f6357"
    
 
 
