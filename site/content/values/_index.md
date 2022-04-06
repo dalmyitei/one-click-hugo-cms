@@ -13,18 +13,20 @@ values:
         - Design gráfico para mídias sociais
     text5: >  
         - Crescimento da comunidade
-    text6: >  
-       - Implementação da MetaSwap
-    text7: >  
-       - Testes e Auditoria de contratos 
-    text8: >  
-       - Lançamento do site 
-    text9: >  
-        - Criação de Redes Sociais 
+    text6: >
+      - Pré-venda
+    text7: >
+      - Lançamento
+     
+    
     imageUrl: "/img/about-shade-grown.gif"
 
 
   - heading: "Fase 2"
+    text7: >  
+       - Implementação da MetaExchange
+    text8: >  
+       - Testes e Auditoria de contratos
     text1: >
       - Desenvolvimento de personagens
     text2: > 
@@ -33,8 +35,6 @@ values:
       - Login e conexão Blockchain
     text4: >
       - Pré-alfa
-    text5: >
-      - Pré-venda
     text6: >
       - Melhorias de UX
 
@@ -50,8 +50,7 @@ values:
       - Teste de público
     text5: >
       - Depuração
-    text6: >
-      - Lançamento
+    
 
     imageUrl: "/img/about-sustainable-farming.gif"
   - heading: "Fase 4"

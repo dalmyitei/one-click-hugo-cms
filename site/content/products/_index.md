@@ -26,7 +26,7 @@ main:
   description: >
     
         Além do acima, META também é queimado das seguintes maneiras:
-        0,05% de cada negociação feita no METASwap 
+        0,05% de cada negociação feita no MetaExchange 
         100% do META enviado para o endereço do desenvolvedor
         100% das taxas de desempenho do META dos IFOs
         100% do META gasto na criação de perfil e cunhagem NFT
