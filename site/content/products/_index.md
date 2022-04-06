@@ -7,7 +7,7 @@ description: >-
  Essa é a economia do Token META.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/products-grid1.png
       text: >
         *A Emissão Efetiva é de fato um pouco abaixo desse valor: um adicional de 45.000 META por dia é desviado do valor alocado para a loteria e queimado (PID 137 - Detalhes abaixo).
 
@@ -22,9 +22,9 @@ intro:
   description: >
      Essa é a economia do Token META.
 main:
-  heading: Great coffee with no compromises
+  heading: Outras mecânicas deflacionárias.
   description: >
-    Outras mecânicas deflacionárias.
+    
         Além do acima, META também é queimado das seguintes maneiras:
         0,05% de cada negociação feita no METASwap 
         100% do META enviado para o endereço do desenvolvedor
@@ -37,8 +37,8 @@ main:
         2% de cada colheita de rendimento no Auto META Pool
         2% de cada venda de NFT no mercado de NFT é usado para comprar META para queimar
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: tabela2
+    image: /img/products-grid2.png
 
 
 ---
