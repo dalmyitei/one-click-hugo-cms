@@ -7,7 +7,7 @@ image: img/illustrations-coffee.gif
 
 ### Acreditamos que os protocolos blockchain e de finanças descentralizadas (DeFi) construídos têm o potencial de capacitar milhões para exercer esse direito.
 
-# Portanto criamos o projeto META para que você possa se divertir com uma proposta ousada imergindo no metaverso com o Meta Education e realizar as trocas mais rápidas do universo com a Meta Exchange.
+###### Portanto criamos o projeto META para que você possa se divertir com uma proposta ousada imergindo no metaverso com o Meta Education e realizar as trocas mais rápidas do universo com a Meta Exchange.
 
 
 
