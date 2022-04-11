@@ -2,40 +2,40 @@
 title: 'WhitePaper'
 image: img/illustrations-coffee.gif
 ---
-## É um direito humano básico para todos controlar seu dinheiro, dados e identidade .
+## It is a basic human right for everyone to control their money, data and identity.
 
 
-### Acreditamos que os protocolos blockchain e de finanças descentralizadas (DeFi) construídos têm o potencial de capacitar milhões para exercer esse direito.
+### We believe that the built-in blockchain and decentralized finance (DeFi) protocols have the potential to empower millions to exercise this right.
 
- Portanto criamos o projeto META para que você possa se divertir com uma proposta ousada imergindo no metaverso com o Meta Education e realizar as trocas mais rápidas do universo com a Meta Exchange.
+ So we created the META project so you can have fun with a bold proposal by immersing yourself in the metaverse with Meta Education and make the fastest exchanges in the universe with Meta Exchange.
 
 
 
 ## Meta Exchange
-Trocas descentralizadas de tokens, marketplace de NFT’s, ganhe tokens com taxas de juros altas, invista e veja seu universo descentralizado se expandir.
-Utilizamos o BNB Smart Chain, um blockchain com taxas de trocas muito mais baixas do que outras similares do mercado.
-Não retemos nenhum fundo durante as suas negociações, ou seja, você tem 100% de propriedade de sua própria criptomoeda porque somos uma exchange descentralizada.
-Venda e compre NFT’s de várias coleções, inclusive para usar em seus jogos do metaverso. Um universo de possibilidades com seus tokens não-fungíveis. 
+Decentralized token exchanges, NFT’s marketplace, earn tokens with high interest rates, invest and watch your decentralized universe expand.
+We use BNB Smart Chain, a blockchain with much lower exchange rates than similar ones on the market.
+We do not hold any funds during your trades, meaning you have 100% ownership of your own cryptocurrency because we are a decentralized exchange.
+Sell and buy NFT's from various collections, including for use in your metaverse games. A universe of possibilities with your non-fungible tokens.
 
 
 ## Meta Education
 
-A Meta Education fornece uma infraestrutura para suportar um mundo virtual compartilhado, também conhecido como um metaverso.
-Faça interações, expanda seu universo.
-Meta Education consiste em um livro-razão descentralizado para propriedade da terra, um protocolo para descrever o conteúdo de cada parcela de terra, e uma rede peer-to-peer para usuários interagirem.
-O desenvolvimento de grandes plataformas proprietárias, como o Instagram, facebook, etc, permitiu a centenas de milhões de usuários reunir, interagir, compartilhar conteúdo e jogar. Seus efeitos de rede ajudaram a cultivar vastas comunidades online e empresas de jogos.
-Essas plataformas, controladas por organizações centralizadas, gerenciam as regras da rede e fluxo de conteúdo, enquanto extraem receitas significativas das comunidades e
-criadores de conteúdo que direcionam o tráfego para as plataformas. 
-A Meta Education pretende estabelecer uma rede que permita aos seus criadores de conteúdo possuírem e capturarem o valor total de suas contribuições.
+Meta Education provides an infrastructure to support a shared virtual world, also known as a metaverse.
+Make interactions, expand your universe.
+Meta Education consists of a decentralized ledger for land ownership, a protocol for describing the content of each parcel of land, and a peer-to-peer network for users to interact.
+The development of large proprietary platforms like Instagram, facebook etc has allowed hundreds of millions of users to gather, interact, share content and play games. Its network effects have helped to cultivate vast online communities and gaming companies.
+These platforms, controlled by centralized organizations, manage network rules and content flow, while extracting significant revenue from communities and
+content creators who drive traffic to the platforms.
+Meta Education intends to establish a network that allows its content creators to own and capture the full value of their contributions.
 
-A adjacência do terreno torna a Meta Education parcelas únicas dos domínios da web. Novo
-parcelas de terra devem ser contíguas às existentes. Esta adjacência permite o espaço
-para descoberta de novos conteúdos e a criação de distritos dedicados a um tópico ou
-tema. Embora cada domínio da web possa ter um número ilimitado de hiperlinks para outros
-conteúdo, as parcelas no Meta Education têm uma quantidade fixa de adjacências. Além disso, o conteúdo de parcelas adjacentes pode ser visto à distância. Para criadores de conteúdo, o estabelecimento de distritos fornece acesso ao tráfego direcionado; para usuários finais, permite descoberta de experiências temáticas. Os usuários podem percorrer bairros e interagir com os aplicativos com os quais se deparam.
-Com escassos terrenos, os desenvolvedores podem adquirir usuários comprando terrenos em áreas de alto tráfego. Isso vai permitir que os mercados secundários se desenvolvam em torno da propriedade da terra e do aluguel, como já é.
+The adjacency of the terrain makes Meta Education unique parts of the web domains. Young
+plots of land must be contiguous to existing ones. This adjacency allows the space
+for discovering new content and creating districts dedicated to a topic or
+theme. While each web domain can have an unlimited number of hyperlinks to other
+content, parcels in Meta Education have a fixed amount of adjacencies. In addition, the contents of adjacent plots can be seen from a distance. For content creators, establishing districts provides access to targeted traffic; for end users, it allows discovery of thematic experiences. Users can roam neighborhoods and interact with the apps they come across.
+With land scarce, developers can acquire users by purchasing land in high-traffic areas. This will allow secondary markets to develop around land ownership and rent as it is.
 
-###### Meta Education é uma nova forma de ver o Marketing Digital no Metaverso.
+###### Meta Education is a new way of looking at Digital Marketing in Metaverse.
 
 
 
