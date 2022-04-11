@@ -7,7 +7,7 @@ image: img/illustrations-coffee.gif
 
 ### Acreditamos que os protocolos blockchain e de finanças descentralizadas (DeFi) construídos têm o potencial de capacitar milhões para exercer esse direito.
 
-###### Portanto criamos o projeto META para que você possa se divertir com uma proposta ousada imergindo no metaverso com o Meta Education e realizar as trocas mais rápidas do universo com a Meta Exchange.
+ Portanto criamos o projeto META para que você possa se divertir com uma proposta ousada imergindo no metaverso com o Meta Education e realizar as trocas mais rápidas do universo com a Meta Exchange.
 
 
 
@@ -35,7 +35,7 @@ tema. Embora cada domínio da web possa ter um número ilimitado de hiperlinks p
 conteúdo, as parcelas no Meta Education têm uma quantidade fixa de adjacências. Além disso, o conteúdo de parcelas adjacentes pode ser visto à distância. Para criadores de conteúdo, o estabelecimento de distritos fornece acesso ao tráfego direcionado; para usuários finais, permite descoberta de experiências temáticas. Os usuários podem percorrer bairros e interagir com os aplicativos com os quais se deparam.
 Com escassos terrenos, os desenvolvedores podem adquirir usuários comprando terrenos em áreas de alto tráfego. Isso vai permitir que os mercados secundários se desenvolvam em torno da propriedade da terra e do aluguel, como já é.
 
-## Meta Education é uma nova forma de ver o Marketing Digital no Metaverso.
+###### Meta Education é uma nova forma de ver o Marketing Digital no Metaverso.
 
 
 
