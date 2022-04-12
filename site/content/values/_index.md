@@ -2,58 +2,58 @@
 title: "Road Map"
 image: /img/teste1.gif
 values:
-  - heading: "Fase 1"
+  - heading: "Phase 1"
     text1: >
-        - Planejamento do projeto
+        - Project planning
     text2: >
-        - Lançamento do site
+        - Website launch
     text3: >  
-        - Criação de Redes Sociais
+        - Creation of Social Networks
     text4: >  
-        - Design gráfico para mídias sociais
+        - Graphic design for social media
     text5: >  
-        - Crescimento da comunidade
+        - Community growth
     text6: >
-      - Pré-venda
+      - Pre sale
     text7: >
-      - Lançamento
+      - Launch
      
     
     imageUrl: "/img/about-shade-grown.gif"
 
 
-  - heading: "Fase 2"
+  - heading: "Phase 2"
     text7: >  
-       - Implementação da MetaExchange
+       - MetaExchange Implementation
     text8: >  
-       - Testes e Auditoria de contratos
+       - Contract Testing and Auditing
     text1: >
-      - Desenvolvimento de personagens
+      - Character development
     text2: > 
-      - Desenvolvimento do mapa
+      - Map development
     text3: >
-      - Login e conexão Blockchain
+      - Blockchain login and connection
     text4: >
-      - Pré-alfa
+      - Pre-alpha
     text6: >
-      - Melhorias de UX
+      - UX improvements
 
     imageUrl: "/img/about-single-origin.gif"
-  - heading: "Fase 3"
+  - heading: "Phase 3"
     text1: >
-      - Painel do usuário
+      - User panel
     text2: >
       - PVP
     text3: >
       - Beta 
     text4: >
-      - Teste de público
+      - Audience test
     text5: >
-      - Depuração
+      - Debug
     
 
     imageUrl: "/img/about-sustainable-farming.gif"
-  - heading: "Fase 4"
+  - heading: "Phase 4"
     text1: >
       - NFT Marketplace
     text2: >

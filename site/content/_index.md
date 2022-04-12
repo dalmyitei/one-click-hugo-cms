@@ -1,24 +1,24 @@
 ---
 title: "Metaverso"
-subtitle: Trocas, NFT, Metaverso, Educação e Play to earn.
+subtitle: Exchanges, NFT, Metaverse, Education and Play to earn.
 image: img/teste1.gif
 
 blurb:
     heading: Metaeducation
-    text: "MetaEducation é a moeda da MetaExchange e do jogo blockchain play to earn MetaEducation, com trocas rápidas e de taxas baixas, jogadores do metaverso tem a exchange perfeita para acessar ganhos. "
+    text: "MetaEducation is the currency of MetaExchange and blockchain game play to earn MetaEducation, with fast exchanges and low fees, metaverse players have the perfect exchange to access earnings. "
 intro:
-    heading: "Sobre"
+    heading: "About"
     text: ""
 products:
     - image: img/illustrations-coffee.gif
-      text: "MetaExchange é a nova exchange do Metaverso. MetaExchange oferece aos investidores e usuários do universo meta a capacidade de apostar em farms de pool de liquidez ou pools de token único, realizar trocas com baixas taxas. A MetaExchange pretende desenvolver o protocolo de trocas mais rápido e de menores taxas do universo."
+      text: "MetaExchange is the new Metaverse exchange. MetaExchange offers investors and users in the meta universe the ability to bet on liquidity pool farms or single token pools, perform exchanges with low fees. MetaExchange aims to develop the fastest and lowest rate exchange protocol in the universe."
       botao: MetaExchange
     - image: /img/illustrations-coffee-gear.gif
-      text: "MetaEducation é um jogo blockchain RPG projetado para trazer uma experiência virtual incrível para todos, com torneios e PVP os jogadores podem competir entre si por recompensas, adquirir novos NFT’s para acessar novas habilidades e poderes e construir e expandir seus mundos enquanto vivem reviravoltas históricas."
+      text: "MetaEducation is a blockchain RPG game designed to bring an amazing virtual experience to everyone, with tournaments and PVP players can compete with each other for rewards, acquire new NFT's to access new abilities and powers, and build and expand their worlds while experiencing historical twists and turns."
       botao: MetaEducation Alfa
     - image: /img/illustrations-coffee-gear1.gif
-      text: "O NFT Marketplace reúne artistas, criadores e entusiastas de criptomoedas em uma única plataforma para criar e negociar NFT’s do Meta Education e de outros criadores."
-      botao: Em breve...
+      text: "The NFT Marketplace brings together cryptocurrency artists, creators and enthusiasts on a single platform to create and trade NFTs from Meta Education and other creators."
+      botao: Coming soon...
 values:
     heading: Contact Adress
     text: "0x4075Bf6e6759857AcB3aF419997872e3992f6357"
