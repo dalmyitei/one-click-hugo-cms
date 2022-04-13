@@ -1,5 +1,5 @@
 ---
-title: "Metaverso"
+title: "Metaverse"
 subtitle: Exchanges, NFT, Metaverse, Education and Play to earn.
 image: img/teste1.gif
 
