@@ -20,7 +20,7 @@ products:
       text: "The NFT Marketplace brings together cryptocurrency artists, creators and enthusiasts on a single platform to create and trade NFTs from Meta Education and other creators."
       botao: Coming soon...
 values:
-    heading: Contact Adress
+    heading: Contract Adress
     text: "0x4075Bf6e6759857AcB3aF419997872e3992f6357"
    
 
